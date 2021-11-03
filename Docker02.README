@@ -1,6 +1,5 @@
 Curso platzie docker 29/10/2021 20:29hrs 
 
-`
 1- docker rename servicio-eureka-server servicio-eureka-server-2
 2- docker ps -a
 3- docker ps
@@ -13,7 +12,7 @@ Curso platzie docker 29/10/2021 20:29hrs
 10- docker logs -f <contenedor> --Entramos directamente al log
 11- docker logs --tail 10  -f <contenedor>
 12- docker run --rm -p 3000:3000 <contenedor>       --Cuando este contenedor se detenga borralo no quiero conservarlo
-`
+
 
 
 Instalar Ubuntu
